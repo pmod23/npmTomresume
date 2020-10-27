@@ -1,0 +1,26 @@
+{
+    "name": "Pramod Thomas",
+    "website": "https://pmod23.github.io/",
+    "linkedin": "https://www.linkedin.com/in/pramodthomas/",
+    "github": "tommy",
+    "email": "pramod.thomas@generalassemb.ly",
+    "resume": "https://pramodthomas.github.io/assets/Pramod-Thomas-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
